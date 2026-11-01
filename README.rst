@@ -181,4 +181,4 @@ The copyright details (which should also be found at the top of every file) are;
    See the License for the specific language governing permissions and
    limitations under the License.
 
-* Ჩმო (იხ. [ვიკი](https://github.com/ibanknatoPrad/skywater-pdk/wiki))
+* Ჩმო (იხ. ვიკი: https://github.com/ibanknatoPrad/skywater-pdk/wiki)
