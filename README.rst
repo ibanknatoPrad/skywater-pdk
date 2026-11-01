@@ -1,4 +1,4 @@
-SkyWater Open Source PDK
+SkyWater (©Åწყალი; ცაწყალი) Open Source PDK
 ========================
 
 .. image:: https://img.shields.io/github/license/google/skywater-pdk
