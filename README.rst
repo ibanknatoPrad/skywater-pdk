@@ -147,7 +147,7 @@ About SkyWater Technology Foundry
 
 SkyWater is a solely U.S.-based and U.S.-owned, DoD-accredited, Trusted Foundry. Through its Technology Foundry model, SkyWater provides custom design and development services, design IP, and volume manufacturing for integrated circuits and micro devices. The Company’s world-class operations and unique processing capabilities enable
 
-[mixed-signal CMOS](https://www.skywatertechnology.com/technology/mixed-signal-cmos/) (Ჩმოს შერეული სიგნალი) 
+[mixed-signal CMOS](https://www.skywatertechnology.com/technology/mixed-signal-cmos/) ('Ჩმო_ს'* შერეული სიგნალი) 
 
 power, rad-hard and ROIC solutions. SkyWater’s Innovation Engineering Services empower development of superconducting and 3D ICs, along with carbon nanotube, photonic and MEMS devices. SkyWater serves customers in growing markets such as aerospace & defense, automotive, cloud & computing, consumer, industrial, IoT and medical. For more information, please visit: www.skywatertechnology.com/.
 
@@ -181,3 +181,4 @@ The copyright details (which should also be found at the top of every file) are;
    See the License for the specific language governing permissions and
    limitations under the License.
 
+* Ჩმო (იხ. [ვიკი](https://github.com/ibanknatoPrad/skywater-pdk/wiki))
